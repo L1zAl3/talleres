@@ -1,0 +1,100 @@
+/*ancho y alto del escudo de la escuela*/
+.escudo{
+    width: 75%;
+    height: 75%;
+}
+/*ancho, alto y margen izq del potro*/
+.potro {
+    width: 15%;
+    height: 15%;
+    margin-left: 20%;
+}
+/*tamaño de letra de "¡Únete a nuestros talleres!"*/
+.bienvenida{
+    font-size: 50px;
+}
+.imgyoga{
+    margin-right: 30%;
+    width: 12%;
+}
+h2{
+    font-family: "Angkor", serif;
+}
+p{
+    font-family: "Josefin Sans", sans-serif;
+}
+h3{
+    font-family: "Josefin Sans", sans-serif;
+}
+.informacion p{
+    margin-left: 20%;
+}
+.informacion h2{
+    margin-left: 20%;
+}
+/*FORMULARIO*/
+.formulario p{
+    color: green;
+}
+
+/*ESCRITOS CON H2*/
+.H2{
+    font-size: 40px;
+    font-family: "Josefin Sans", sans-serif;
+    color:green;
+}
+/*COLOCR DE LAS OPCIONES*/
+.edad{
+    text-align: center;
+}
+/*ESTILO DE BOTÓN*/
+.boton{
+    background-color: black;    
+    border-radius: 50px 20px;
+    color: aliceblue;
+    font-size: 15px;
+    width: 90px;
+    border-color: #5be670;
+    box-shadow: 0 2px 1px #0b5c17;
+}
+.boton:hover{
+    background-color: #0b5c17;
+    color: black;
+}
+/*FORMULARIO LETRA Y ALINEACIÓN*/
+.formulario{
+    color: #010201;
+    text-align: center;
+}
+/*COLORES DE LAS OPCIONES*/
+.one{
+    color: #a6a646;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.two{
+    color: #079a25;
+}
+.opc1{
+    color: #a6a646;
+}
+.opc2{
+    color: #079a25;
+}
+.opc3{
+    color: #a6a646;
+}
+.opc4{
+    color: #079a25;
+}
+.opc5{
+    color: #a6a646; 
+}
+.opc6{
+    color: #079a25;
+}
+.mensaje{
+    color: #010201;
+    text-align: center;
+}
